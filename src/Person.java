@@ -8,7 +8,9 @@ public class Person {
 
     private String address;
 
-    private String bran1;
 
+    private String bran2;
+
+    private String bran1;
 
 }
